@@ -1,5 +1,5 @@
-shipmode,delivery_team,city
-First Class, RHL_Couriers, madrid
-Second Class, RHL_Couriers, habana
-Standart Class, RHL_Couriers, london
-Same Day, Globalmart, horsham
+shipmode,delivery_team
+First Class, RHL_Couriers
+Second Class, RHL_Couriers
+Standart Class, RHL_Couriers
+Same Day, Globalmart
