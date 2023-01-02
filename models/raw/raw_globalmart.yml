@@ -4,6 +4,7 @@ models:
   - name: raw_customers
     columns:
       - name: CUSTOMERID
+        description: customers table primary key
         tests:
           - unique
           - not_null
